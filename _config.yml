@@ -20,15 +20,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Leobardo Oscar Alcantara
+title: Clouds as Meteors
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
-# description appears in meta tags and other locations
+tagline: Clouds as Meteors
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "n meteorology, a phenomenon observed in the atmosphere or on the surface of the Earth is known as a meteor. It may be a form of precipitation, a suspension or a deposit of liquid or solid particles."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
-
+author: Leobardo Oscar Alcantara Ocana
 ##########
 # COLLECTION SETTINGS
 #
