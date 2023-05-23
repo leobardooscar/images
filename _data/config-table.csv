@@ -1,5 +1,6 @@
 field,display_name
 title,Title
+classification, Type
 date,Date
 description,Description
 subject,Subjects
