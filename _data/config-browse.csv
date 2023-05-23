@@ -1,6 +1,5 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
+classification, Type 
 subject,,true
 location,,true
-classification, Type 
+date,Date,,,Date
