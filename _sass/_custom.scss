@@ -5,6 +5,26 @@
 
 li a.active
 {
-background-color: red
+background-color: orange
 }
 
+/* Ajustes ABOUT */
+
+
+
+.about-contents>p, .about-contents>.about-narrowed-content, .about-contents>.footnotes, .about-contents>ol, .about-contents>ul 
+{    
+    max-width: 800px;
+}
+
+
+    .about-contents>h1, .about-contents>h2, .about-contents>h3, .about-contents>h4, .about-contents>h5, .about-contents>h6 
+    {
+        max-width: 800px;   
+    }
+
+    /* Margin top */
+
+    .about-contents>h2 {
+        padding-top: 50px;
+    }
