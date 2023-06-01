@@ -1,18 +1,18 @@
 field,display_name,browse_link,external_link
-genus,Genus,
-creator,Creator,
-date,Date Created,
-description,Description,
-altitudid, Altitude
+genus,Genus
+altitudid, Altitude ID
 species,Species
 varieties,varieties
 month,month
+description,Description,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
+creator,Creator,
+date,Date Created,
 type,Type,
 format,Format,
 rights,Rights,
