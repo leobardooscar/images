@@ -1,9 +1,12 @@
 field,display_name,browse_link,external_link
-title,Title,
+genus,Genus,
 creator,Creator,
 date,Date Created,
 description,Description,
-classification, Type
+altitudid, Altitude
+species,Species
+varieties,varieties
+month,month
 subject,Subjects,true
 location,Location
 latitude,Latitude
