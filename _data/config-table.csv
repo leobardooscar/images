@@ -1,6 +1,5 @@
 field,display_name
-title,Title
-classification, Type
-description,Description
-subject,Subjects
+genus,Genus
+species, Species
+description, Description
 date,Date
