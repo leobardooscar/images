@@ -1,0 +1,11 @@
+objectid,filename,genus,altitudid,species,varieties,month,description,date,subject,location,latitude,longitude,identifier,type,format,language,creator,rights,rightsstatement
+coll001,cloud_1.jpg,Cumulonimbus ,L,,,,Storm clouds,2020-01-01,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll002,cloud_2.jpg,Cumulonimbus,L,,,,Storm clouds,2020-01-02,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll003,cloud_3.jpg,Cumulus ,L,,,,,2020-01-03,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll004,cloud_4.jpg,Cumulus ,L,,,,,2020-01-04,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll005,cloud_5.jpg,Cumulus ,L,,,,,2020-01-05,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll006,cloud_6.jpg,Cumulus ,L,,,,,2020-01-06,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll007,cloud_7.jpg,Cumulus ,L,,,,,2020-01-07,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll008,cloud_8.jpg,Cumulus ,L,,,,,2020-01-08,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll009,cloud_9.jpg,Cumulus ,L,,,,,2020-01-09,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
+coll010,cloud_10.jpg,Cumulonimbus,L,,,,Storm clouds,2020-01-10,Meteorology,México,20.659698,-103.349609,,Image;StillImage,image/jpeg,eng,Leobardo Óscar Alcántara Ocaña,All rights reserved,http://rightsstatements.org/vocab/InC/1.0/
