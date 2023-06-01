@@ -1,8 +1,8 @@
-field,display_name,browse_link,external_link,
+field,display_name,browse_link,external_link
 genus,Genus,
 altitudid, Altitude ID,
 species,Species,
-varieties,varieties,
+varieties,Varieties,
 month,month,
 description,Description,
 subject,Subjects,true
