@@ -85,3 +85,30 @@ background-color: #FF4500;
        {
            width: 35px;
        }
+
+
+       table#clouds_gen_spe thead + thead:nth-child(-n +3) th
+       {
+        font-weight: normal;
+       }
+
+       th.high
+       {
+        background-image: linear-gradient(to right, #95c2dcff, white);
+         
+       }
+       
+       th.middle
+       {
+        background-image: linear-gradient(to right, #c7dde8ff, white);  
+       }
+
+       th.low
+       {
+        background-image: linear-gradient(to right, #dee8eeff, white);  
+      
+       }
+
+       
+       
+       
