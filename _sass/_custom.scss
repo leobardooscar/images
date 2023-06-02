@@ -5,7 +5,7 @@
 
 li a.active
 {
-background-color: orange
+background-color: #FF4500;
 }
 
 /* Ajustes ABOUT */
@@ -28,3 +28,60 @@ background-color: orange
     .about-contents>h2 {
         padding-top: 50px;
     }
+
+    /* Clods classification per altitude */
+
+    td.high_clouds
+    {
+        background-image: linear-gradient(to right, #4b66a7ff, #d2d9e8ff);
+    }
+
+        td.high_clouds + td
+        {
+            background-image: linear-gradient(to right, #d2d9e8ff, white);
+        }
+
+    td.middle_clouds
+    {
+        background-image: linear-gradient(to right, #007FFF, #c6defcff);
+    }
+
+        td.middle_clouds + td
+         {
+            background-image: linear-gradient(to right, #c6defcff, white);
+        }
+
+    td.low_clouds
+    {
+        background-image: linear-gradient(to right, #89CFF0, #cce6f5ff);
+    }
+
+        td.low_clouds + td
+        {
+            background-image: linear-gradient(to right, #cce6f5ff, white);
+        }
+
+
+        table#type_clouds_altitude td + td
+        {
+            padding-left: 10%;
+        }
+
+
+        table#type_clouds_altitude dl ul
+        {
+            float: left
+        }
+
+        .table>:not(:first-child) {
+            border-bottom: 0px solid currentColor;
+        }
+
+        .table>:not(:last-child) {
+            border-bottom: 0px solid currentColor;
+        }
+
+       table#clouds_gen_spe img
+       {
+           width: 35px;
+       }
